@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/soimhur/customized-bootstrap/issues"
   },
-  "homepage": "https://github.com/soimhur/customized-bootstrap#readme"
+  "homepage": "https://github.com/soimhur/customized-bootstrap#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
